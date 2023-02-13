@@ -8,7 +8,7 @@ The following are ones that might be involved in polybar or they have its config
 
 |Application|Configs/Included|
 |-----------|-----------|
-|WM|[i3]|
+|WM|i3|
 |Bar|[polybar]|
 |Shell|[zsh],[bash]|
 |Terminal|[tmux],[gnome],[alacrity]|
