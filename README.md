@@ -9,20 +9,20 @@ The following are ones that might be involved in polybar or they have its config
 |Application|Configs/Included|
 |-----------|-----------|
 |WM|i3|
-|Bar|[polybar]|
-|Shell|[zsh],[bash]|
-|Terminal|[tmux],[gnome],[alacrity]|
-|Editor|[vim]|
-|File Manager|[thunar],[pcmanfm]|
-|Launcher|[dmenu],[rofi],[dmenu-extended]|
-|Browser|[firefox],[firefox Developer Editor]|
-|Media|[mpv],[vlc]|
-|Compositor|[compton]|
-|Note|[obsidian]|
-|Code|[visual studio code],[Sublime]|
-|Wallpaper|[feh]|
-|Virtualization|[Virtualbox]|
-|Sec-Tools|[burpsuite]|
+|Bar|polybar|
+|Shell|zsh,bash|
+|Terminal|tmux,gnome,alacrity|
+|Editor|vim|
+|File Manager|thunar,pcmanfm|
+|Launcher|dmenu,rofi,rofi-extended|
+|Browser|firefox,firefox Developer Editor|
+|Media|mpv,vlc|
+|Compositor|compton|
+|Note|obsidian|
+|Code|visual studio code,Sublime|
+|Wallpaper|feh|
+|Virtualization|Virtualbox|
+|Sec-Tools|burpsuite|
 
 
 # Installation
