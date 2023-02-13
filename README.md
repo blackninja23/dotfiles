@@ -40,8 +40,8 @@ chmod +x install.sh
 ![](02.png)
 
 # References
-![kali clean](https://github.com/xct/kali-clean)
+[kali clean](https://github.com/xct/kali-clean)
 
-![rofi custom](https://github.com/adi1090x/rofi)
+[rofi custom](https://github.com/adi1090x/rofi)
 
-![wallpapers](https://github.com/goatfiles/wallpapers)
+[wallpapers](https://github.com/goatfiles/wallpapers)
