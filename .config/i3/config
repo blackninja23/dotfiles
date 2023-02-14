@@ -178,7 +178,7 @@ bindsym XF86MonBrightnessUp exec xbacklight -inc 20
 bindsym XF86MonBrightnessDown exec xbacklight -dec 20
 
 # compton - Compositing Manager for Shadows and Opacity
-#exec_always --no-startup-id compton -b --config ~/.config/compton/compton.conf
+exec_always --no-startup-id compton -b --config ~/.config/compton/compton.conf
 
 # VM Clipboard Fix
 exec_always --no-startup-id ~/.config/i3/clipboard_fix.sh
