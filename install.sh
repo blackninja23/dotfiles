@@ -37,7 +37,7 @@ cp -r .config/i3/* ~/.config/i3/
 cp .config/alacritty/alacritty.yml ~/.config/alacritty/alacritty.yml
 cp -r .config/polybar/* ~/.config/polybar/
 cp .config/compton/compton.conf ~/.config/compton/compton.conf
-cp -r .config/rofi/* ~/.config/rofi/*
+cp -r .config/rofi/* ~/.config/rofi/
 cp .config/i3/clipboard_fix.sh ~/.config/i3/clipboard_fix.sh
 cp -r .wallpaper ~/.wallpaper 
 cp .tmux.conf ~/.tmux.conf
