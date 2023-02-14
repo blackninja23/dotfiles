@@ -126,6 +126,7 @@ assign [class="Firefox-esr"] $ws2
 assign [class="Firefox Developer Edition"] $ws2
 assign [class="Thunar"] $ws3
 assign [class="Pcmanfm"] $ws3
+assign [class="org.gnome.Nautilus"] $ws3
 assign [class="obsidian"] $ws4
 assign [class="Code"] $ws4
 assign [class="Subl"] $ws4
