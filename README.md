@@ -39,6 +39,10 @@ chmod +x install.sh
 ![](01.png)
 ![](02.png)
 
+## Notice! ⚠️
+
+If you like this configuration, please give me a star in this repo, it will make me more happy!
+
 # References
 [kali clean](https://github.com/xct/kali-clean)
 
