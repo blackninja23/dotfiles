@@ -13,7 +13,7 @@ The following are ones that might be involved in polybar or they have its config
 |Shell|zsh,bash|
 |Terminal|tmux,gnome,alacrity|
 |Editor|vim|
-|File Manager|thunar,pcmanfm, nautilis|
+|File Manager|thunar,pcmanfm,nautilus|
 |Launcher|dmenu,rofi,rofi-extended|
 |Browser|firefox,firefox Developer Editor|
 |Media|mpv,vlc|
