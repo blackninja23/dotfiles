@@ -11,7 +11,7 @@ The following are ones that might be involved in polybar or they have its config
 |WM|i3|
 |Bar|polybar|
 |Shell|zsh,bash|
-|Terminal|tmux,gnome,alacrity|
+|Terminal|tmux,gnome,alacritty|
 |Editor|vim|
 |File Manager|thunar,pcmanfm,nautilus|
 |Launcher|dmenu,rofi,rofi-extended|
