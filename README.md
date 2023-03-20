@@ -1,4 +1,4 @@
-# MY KALI SETUP
+# MY SETUP
 - Dotfiles configuration
 - it has been tested and run on kali linux
 
@@ -25,7 +25,7 @@ The following are ones that might be involved in polybar or they have its config
 |Sec-Tools|burpsuite|
 
 
-# Installation
+# Installation on Kali
 The following commands can be used to setup your os
 
 ```
@@ -33,6 +33,16 @@ git clone https://github.com/blackninja23/dotfiles
 cd dotfiles
 chmod +x install.sh
 ./install.sh
+```
+
+# Installation on Arch
+The following commands can be used to setup your os
+
+```
+git clone https://github.com/blackninja23/dotfiles
+cd dotfiles
+chmod +x install_on_arch_linux.sh
+./install_on_arch_linux.sh
 ```
 
 # Screenshots
