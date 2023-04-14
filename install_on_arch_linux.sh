@@ -1,4 +1,4 @@
-sudo pacman -S playerctl vim polybar xorg-xbacklight arandr flameshot feh i3blocks i3status i3 i3-wm lxappearance rofi unclutter cargo papirus-icon-theme imagemagick picom arc-gtk-theme arc-icon-theme gtk-engine-murrine elementary-icon-theme autoconf meson zsh acpi alacritty
+sudo pacman -S playerctl vim polybar xorg-xbacklight arandr flameshot feh alsa-utils i3blocks i3status i3 i3-wm lxappearance rofi unclutter cargo papirus-icon-theme imagemagick picom arc-gtk-theme arc-icon-theme gtk-engine-murrine elementary-icon-theme autoconf meson zsh acpi alacritty
 sudo pacman -S ranger atool highlight ffmpegthumbnailer w3m transmission-cli lynx neofetch cpio lha lzop unace unrar
 mkdir -p ~/.local/share/fonts/
 
