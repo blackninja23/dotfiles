@@ -179,7 +179,8 @@ default_border normal
 
 # Automate wallpapers
 #exec_always --no-startup-id sh ~/.fehbg
-exec_always ~/.config/i3/auto-wall.sh
+#exec_always ~/.config/i3/auto-wall.sh
+exec_always variety --resume
 
 # Media player controls
 bindsym XF86AudioPlay exec playerctl play
