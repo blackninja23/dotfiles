@@ -20,7 +20,7 @@ The following are ones that might be involved in polybar or they have its config
 |Compositor|compton|
 |Note|obsidian|
 |Code|visual studio code,Sublime|
-|Wallpaper|feh|
+|Wallpaper|feh,variety|
 |Virtualization|Virtualbox|
 |Sec-Tools|burpsuite|
 
