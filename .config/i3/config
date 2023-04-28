@@ -181,6 +181,7 @@ default_border normal
 #exec_always --no-startup-id sh ~/.fehbg
 #exec_always ~/.config/i3/auto-wall.sh
 # Use Variety for Now
+exec_always variety --resume
 
 # Media player controls
 bindsym XF86AudioPlay exec playerctl play
