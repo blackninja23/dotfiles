@@ -35,7 +35,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-# Installation on Arch
+# Installation on ArchLinux
 The following commands can be used to setup your os
 
 ```
